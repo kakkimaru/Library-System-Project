@@ -1,1 +1,4 @@
-# wca-incubation-apac-2025
+# Guide for running the workshop
+
+## Pre-requisites
+
