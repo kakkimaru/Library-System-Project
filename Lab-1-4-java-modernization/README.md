@@ -44,11 +44,11 @@ java --version
 - **For Windows**:
   - Open Environment variables using windows search bar (search for edit environment variables in the search bar)
   
-  ![image](https://github.com/user-attachments/assets/d0099fe2-72c1-4594-8b5f-8075f2d6bced)
+  ![alt text](./images/image_env_variables_windows.png)
 
   - Set JAVA_HOME variable using Environment variables (click on new if you do not have a JAVA_HOME set or click on edit to change the existing JAVA_HOME, and point it to the Java you installed in the earlier steps:
     
-  ![image](https://github.com/user-attachments/assets/cbb009b7-159a-48d2-8bb6-c113968477b0)
+  ![alt text](./images/image_JAVA_HOME_windows.png)
 
     ```bash
     JAVA_HOME= C:\Program Files\Java\jdk-21
@@ -56,7 +56,7 @@ java --version
     
   - Add Java to PATH using Environment variables:
  
-  ![image](https://github.com/user-attachments/assets/8925e501-5db6-449b-9ad4-eef44ea253cf)
+  ![alt text](./images/image_add_java_to_PATH_windows.png)
  
     ```bash
     %JAVA_HOME%\bin
